@@ -151,21 +151,6 @@ Top technologies and tools I use to build software:
   </tr>
 </table>
 
----
-
-<!-- UPDATED STATS SECTION WITH CORRECT USERNAME -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=spandeyio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suryansh's GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandeyio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
 <div align="center">
     <p>Feel free to reach out for collaborations or interesting opportunities!</p>
 </div>
